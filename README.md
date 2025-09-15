@@ -28,7 +28,17 @@ The scraper extracts the following fields:
 
 Make sure you have Python 3.8+ installed and install the dependencies:
 ```bash
-pip install requests beautifulsoup4 lxml
+pip install requests
+pip install beautifulsoup4
+pip install lxml
+```
+
+## 📝 Usage
+
+Open the script in your editor and adjust the ##BASE_URL## for your preferred programs filter.
+The results will be saved in programs.csv file.
+
+
 
 
 
