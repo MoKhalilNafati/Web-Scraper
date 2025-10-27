@@ -36,8 +36,8 @@ pip install lxml
 ## 📝 Usage
 
 Open the script in your editor and adjust the ##BASE_URL## for your preferred programs filter.
-The results will be saved in programs.csv file.
 Replace your with open(...) line: Find this line in your main function
 ```
 with open("C:/Users/Khalil/Documents/VS/Web Scraping v2/programs.csv", "w", newline="") as f:
 ```
+The results will be saved in programs.csv file.
