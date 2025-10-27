@@ -37,8 +37,3 @@ pip install lxml
 
 Open the script in your editor and adjust the ##BASE_URL## for your preferred programs filter.
 The results will be saved in programs.csv file.
-
-
-
-
-
